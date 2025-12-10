@@ -23,5 +23,4 @@ int main() {
     x2.join();
 
     std::cout << _ma[5] << std::endl;
-
 }
